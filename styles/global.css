@@ -6,14 +6,16 @@ body {
     Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
+  background-color: rgba(0, 255, 255, .15);
 }
 
 * {
   box-sizing: border-box;
+  color:#3a013a;
 }
 
 a {
-  color: #0070f3;
+  color: fuchsia;
   text-decoration: none;
 }
 
